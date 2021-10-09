@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    align-items: center;
+    background-color: #4A90E2;
+
+}
+h1{
+    text-align: center;
+    color: white;
+    margin-top: 5px;
+}
+.alg{
+    align-items: center;
+}
+.container{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+@media (max-width: 1000px) {
+    .nd{
+        display:none;
+    }
+}

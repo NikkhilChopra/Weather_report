@@ -1,0 +1,29 @@
+body{
+    background-image: url(cloud.jpg);
+    background-size: cover;
+}
+.inpw{
+    width: 50%;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+.area1{
+    width: 50%;
+    background-image: url(https://media.giphy.com/media/gG6xmgCgm4BadaD45x/giphy.gif);
+    background-size: cover;
+    height: 40vh;
+    margin: 50px auto;
+    border-radius: 9px;
+    color: rgb(207, 200, 200);
+  }
+.container{
+    text-align: center;
+}
+.sub1{
+    width: 30%;
+}
+p{
+    line-height: 5px;
+}
